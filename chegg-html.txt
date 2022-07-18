@@ -1,0 +1,201 @@
+
+
+
+.logo{
+    font-family:Aspira,Sans-serif;
+    width: 100%;
+    justify-items: center;
+    justify-content: space-between;
+    display: flex;
+
+    
+}
+.chegg{
+    color:  rgb(235, 113, 0);
+    padding-left:150px;
+    margin-top: 0%;
+    font-family: Aspira,Sans-serif;
+    font-size: 29px;
+    font-weight: 900;
+    line-height: 1.3em;
+}
+.logo ul{
+display: flex;
+list-style:none;
+align-items: center;
+padding-left: 300px;
+
+}
+.logo ul li{
+    margin-top: 0%;
+    padding-right: 80px;
+    font-weight: bold;
+    position: relative;
+    
+}
+.logo ul li a{
+    text-decoration: none;
+    color: black;
+    size: 40px;
+
+}
+
+
+
+
+
+
+.basic{
+    padding-left: 145px;
+    padding-top: 35px;
+}
+.border{
+    height: 2.5px;
+    background-color: rgb(235, 113, 0) ;
+    border:0%;
+}
+.more{
+    font-size: 50px;
+    color:  rgb(235, 113, 0);
+    font-family:Aspira,Sans-serif;
+    padding-left: 500px;
+}
+
+
+.com{
+    background-color: rgb(255, 245, 235);
+    height: 500px;
+    width: 100%;
+    border: 0;
+    position:relative;
+    display: flex;
+    font-family:Aspira,Sans-serif;
+  
+
+}
+.dom{
+    font-size: 60px;
+    /* padding-left: 830px; */
+    color: rgb(235, 113,0 );
+    
+    font-weight: 500;
+    position: absolute;
+
+}
+
+.tab{
+    height: 450px;
+    width: 350px;
+    float: left;
+    margin: 25;
+    padding-left: 30px;
+    padding-top: 55px;
+    padding-right: 70px;
+
+
+}
+#first{
+    background-color:#fff;
+}
+#second{
+    background-color:#fff;
+}
+#third{
+    background-color: #fff;
+}
+.content{
+    background-color: #d6defe;
+    height: 800px;
+}
+.sub1{
+    font-family: Aspira,Sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+}
+.sub{
+    font-size: 35px;
+    font-family: Aspira,Sans-serif;
+    font-weight: 550;
+}
+.footer{
+    float: left;
+    border: 3000px;
+    justify-items: center;
+    font-family: Aspira,Sans-serif;
+    
+    
+
+}
+.ol{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Aspira,Sans-serif;
+    padding-right: 200px;
+    
+}
+.footer ul{
+    list-style: none;
+
+}
+.pop a{
+    text-decoration: none;
+}
+
+.domi a{
+    text-decoration: none;
+}
+.domi{
+    
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position:absolute;
+    top: 1px;
+    display: flex;
+    width: 500px;
+    right: -370px;
+    
+  
+    
+    
+    }
+.button{
+    background-color: rgb(235, 113,0 );
+    align-items: center;
+    align-content: center;
+    height: 35px;
+   border-radius: 55px;
+   width: 140px;
+   right: 300px;
+   top: 300px;
+   position: absolute;
+}
+
+.click{
+    color: rgb(235, 113, 0);
+    text-decoration: none;
+    font-family:Aspira,Sans-serif ;
+    position: relative;
+    margin-left: 10px;
+    display: flex;
+    /* padding-left: 525px; */
+    
+    
+    
+   
+}
+
+.pop{
+   font-family:Aspira,Sans-serif ; 
+   color:rgb(235, 113, 0);
+   text-decoration: none;
+   font-size: 20px;
+  padding-left: 20px;
+  
+
+  
+}
+
+
+
+    
+    
