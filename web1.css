@@ -17,11 +17,11 @@ body{
 .chegg{
     color:  rgb(235, 113, 0);
     padding-left:150px;
-    margin-top: 0%;
+    margin-top: 11px;
     font-family: Aspira,Sans-serif;
     font-size: 29px;
     font-weight: 900;
-    line-height: 1.3em;
+    
 }
 .logo ul{
 display: flex;
@@ -91,6 +91,7 @@ padding-left: 00px;
     padding-left: 60px;
     padding-top: 55px;
     padding-right: 60px;
+    text-align: center;
 
 
 }
@@ -165,9 +166,10 @@ padding-left: 00px;
     top: 1px;
     display: flex;
     width: 430px;
-    right: -298px;
+    right: -306px;
     font-weight: 200;
     text-decoration: inherit;
+    text-align: center;
     
   
     
@@ -180,9 +182,9 @@ padding-left: 00px;
     height: 35px;
    border-radius: 55px;
    width: 140px;
-   right: 298px; 
+   right: 317px; 
    margin-left: 110px;
-   
+   text-align: center;
    top: 300px;
    position: absolute;
 } 
@@ -201,6 +203,7 @@ padding-left: 00px;
    color:rgb(235, 113, 0);
    text-decoration: none;
    font-size: 20px;
+   
   
   
 
@@ -249,10 +252,10 @@ padding-left: 00px;
     float: left;
     height: 130px;
 }
-logos{
+.logos{
     width: 50%;
     display: flex;
-    column-gap:100px;
+    column-gap:60px;
     align-items: center;
     
 }
@@ -263,11 +266,48 @@ logos{
   }
   .logp{
     cursor: pointer;
-    padding-left: 20px;
+    
     padding-top: 50px;
    
   }
-  
+  .that{
+    margin-right: 27px;
+  }
+  .sub12{
+    font-family: Aspira,Sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    padding-top: 22px;
+  }
+  .sub13{
+    font-family: Aspira,Sans-serif;
+    font-weight: 550;
+    padding-top: 31px;
+    font-size: 35px;
+
+  }
+  .sub11{
+    font-family: Aspira,Sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    padding-top:23px;
+  }
+  .pop1{
+    font-family:Aspira,Sans-serif ; 
+   color:rgb(235, 113, 0);
+   text-decoration: none;
+   font-size: 20px;
+
+
+  }
+  .pop2{
+    font-family:Aspira,Sans-serif ; 
+   color:rgb(235, 113, 0);
+   text-decoration: none;
+   font-size: 20px;
+   padding-bottom: 2
+
+  }
  
     
  
